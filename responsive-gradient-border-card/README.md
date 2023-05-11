@@ -5,4 +5,4 @@
 - With hover effect on hover.
 - Developed first with the Mobile First methodology, then for desktop.
 
-![preview img](/preview.png)
+![preview img](./preview.png)
